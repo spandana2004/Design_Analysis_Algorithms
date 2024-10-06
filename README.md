@@ -8,7 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms Implemented](#algorithms-implemented)
-- [Performance Analysis](#performance-analysis)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -76,12 +75,6 @@ This project is an implementation of various classical algorithms in Java, inclu
 
 ### Miscellaneous
 - **Min-Max Algorithm**: Implementation in `MinMax.java`
-
-## Performance Analysis
-Each algorithm includes:
-- **Time complexity**: Big-O notation for time complexity analysis based on input size.
-- **Space complexity**: Analysis of memory requirements for each algorithm.
-- **Custom input**: Users can provide different input sizes to observe how algorithms behave in terms of execution time.
 
 ## Contributing
 Contributions are welcome! If you would like to add more algorithms, optimize the existing ones, or improve the project structure, feel free to fork the repository and create a pull request.
